@@ -2,8 +2,7 @@
 
 # Código para ligar e desligar o relé
 
-```
-console
+``` console
 
 /*********
   Rui Santos
